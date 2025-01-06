@@ -1,0 +1,1 @@
+This Haskell code uses a pattern match on a list without considering the empty list case. This will lead to a runtime error if the input list is empty.
